@@ -1,1 +1,2 @@
 she is our new team-mate
+she is just beginning with git
